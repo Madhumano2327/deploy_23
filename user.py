@@ -50,5 +50,3 @@ def main():
     else:
         career_mate_features()
 
-if _name_ == "_main_":
-    main()
